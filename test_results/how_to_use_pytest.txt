@@ -1,0 +1,15 @@
+Run all tests: python -m pytest -q
+
+List each test: python -m pytest -v
+
+Extra detail: python -m pytest -vv
+
+Show discovered tests only: python -m pytest --collect-only -q
+
+Run a subset: python -m pytest -k puzzle -vv
+
+Show print/log output: python -m pytest -s -vv
+
+Stop on first failure: python -m pytest -x
+
+Failure summary extras: python -m pytest -ra

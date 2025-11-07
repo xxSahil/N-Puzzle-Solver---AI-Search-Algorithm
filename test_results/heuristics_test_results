@@ -1,0 +1,42 @@
+Example 1: Randomized by 5 legal moves
+ 1  5  2
+ X  4  3
+ 7  8  6
+h1 (Misplaced Tiles):  5
+h2 (Manhattan Dist.):  5
+h3 (Linear Conflict):  5
+----------------------------------------
+Example 2: Randomized by 10 legal moves
+ X  1  2
+ 4  8  3
+ 5  7  6
+h1 (Misplaced Tiles):  7
+h2 (Manhattan Dist.):  8
+h3 (Linear Conflict):  8
+----------------------------------------
+Example 3: Randomized by 15 legal moves
+ 7  4  1
+ 8  5  2
+ 6  X  3
+h1 (Misplaced Tiles):  7
+h2 (Manhattan Dist.):  15
+h3 (Linear Conflict):  15
+----------------------------------------
+Example 4: Randomized by 20 legal moves
+ 5  6  8
+ 1  3  2
+ 4  7  X
+h1 (Misplaced Tiles):  8
+h2 (Manhattan Dist.):  14
+h3 (Linear Conflict):  14
+----------------------------------------
+
+Manual test board:
+ 2  1  3
+ 4  5  6
+ 7  8  X
+h1 (Misplaced Tiles):  2
+h2 (Manhattan Dist.):  2
+h3 (Linear Conflict):  4
+----------------------------------------
+

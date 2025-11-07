@@ -1,0 +1,8 @@
+Solution Depth,h1 (Misplaced) Nodes Expanded,h1 (Misplaced) Branching Factor,h2 (Manhattan) Nodes Expanded,h2 (Manhattan) Branching Factor,h3 (Linear Conflict) Nodes Expanded,h3 (Linear Conflict) Branching Factor
+6,16,1.27,12,1.17,12,1.17
+10,26,1.16,14,1.05,14,1.05
+12,59,1.21,21,1.07,19,1.05
+14,148,1.26,47,1.13,42,1.12
+16,540,1.35,101,1.17,91,1.16
+18,1362,1.37,243,1.2,162,1.17
+20,3017,1.39,271,1.18,165,1.14

@@ -1,0 +1,6 @@
+,h1 (Misplaced),h2 (Manhattan),h3 (Linear Conflict)
+solution_depth_mean,18.0,18.0,18.0
+nodes_expanded_mean,2295.0,227.0,143.0
+runtime_mean,0.014,0.002,0.004
+branching_factor,1.365,1.173,1.144
+success_rate,1.0,1.0,1.0

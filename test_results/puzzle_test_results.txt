@@ -1,0 +1,60 @@
+test_puzzle.py ...........                                                                                        [100%] 
+
+================================================== 11 passed in 0.03s ================================================== 
+Solved 3x3 Board:
+ 1  2  3
+ 4  5  6
+ 7  8  X
+Board is goal? True
+
+Neighbor Board:
+ 1  2  3
+ 4  5  X
+ 7  8  6
+Board is goal? False
+Board is solvable? True
+Board hash: 1199459634545965961
+
+Neighbor Board:
+ 1  2  3
+ 4  5  6
+ 7  X  8
+Board is goal? False
+Board is solvable? True
+Board hash: 6314576114547065002
+
+Randomized Board after 10 moves:
+
+Manual 4x4 Board:
+ 1  2  3  4
+ 5  6  X  8
+ 9 10  7 11
+13 14 15 12
+
+Manual 5x5 Board from Rows:
+ 1  2  3  4  5
+ 6  7  8  9 10
+11 12  X 13 14
+16 17 18 19 15
+21 22 23 24 20
+Enter board size n for an n x n puzzle (e.g., 3 for 8-puzzle): 3
+Enter number of random moves to shuffle the board: 2
+Welcome to the n-puzzle! Commands: U,D,L,R to move; Q to quit; R to randomize; H for help.
+
+Current board:
+ 1  2  X
+ 4  5  3
+ 7  8  6
+Enter command (U/D/L/R/Q/R/H): D
+
+Current board:
+ 1  2  3
+ 4  5  X
+ 7  8  6
+Enter command (U/D/L/R/Q/R/H): D
+
+Current board:
+ 1  2  3
+ 4  5  6
+ 7  8  X
+Congratulations! You've solved the puzzle!

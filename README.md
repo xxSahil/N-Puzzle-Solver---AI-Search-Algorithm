@@ -1,11 +1,11 @@
-# Assignment 1 ProposedStructure
+# Structure
 
-This project implements the A\* algorithm for the n-puzzle (8/15/24).  
+This project implements the A\* algorithm for the n-puzzle.  
 Below is a brief overview of the main files and their roles.
 
 ## Files
 - **Results/**
-  - Contains raw results and figures for Part 1, 2, and 3 of the assignment
+  - Contains raw results and figures
 
 - **puzzle.py**
 
